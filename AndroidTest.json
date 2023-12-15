@@ -1,0 +1,26 @@
+[
+    {
+        "schoolName": "School 1",
+        "noOfPupils": 1,
+        "schoolType": "Highschool",
+        "schoolOpeningDate": "01/01/2001"
+    },
+    {
+        "schoolName": "School 2",
+        "noOfPupils": 2,
+        "schoolType": "Elementary",
+        "schoolOpeningDate": "02/02/2002"
+    },
+    {
+        "schoolName": "School 3",
+        "noOfPupils": 3,
+        "schoolType": "College",
+        "schoolOpeningDate": "03/03/2003"
+    },
+    {
+        "schoolName": "School 4",
+        "noOfPupils": 4,
+        "schoolType": "University",
+        "schoolOpeningDate": "04/04/2004"
+    }
+]
