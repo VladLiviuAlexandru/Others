@@ -1,26 +1,26 @@
 [
-    {
-        "schoolName": "School 1",
-        "noOfPupils": 1,
-        "schoolType": "Highschool",
-        "schoolOpeningDate": "01/01/2001"
-    },
-    {
-        "schoolName": "School 2",
-        "noOfPupils": 2,
-        "schoolType": "Elementary",
-        "schoolOpeningDate": "02/02/2002"
-    },
-    {
-        "schoolName": "School 3",
-        "noOfPupils": 3,
-        "schoolType": "College",
-        "schoolOpeningDate": "03/03/2003"
-    },
-    {
-        "schoolName": "School 4",
-        "noOfPupils": 4,
-        "schoolType": "University",
-        "schoolOpeningDate": "04/04/2004"
-    }
+  {
+    "customerCode": 1234567890123,
+    "invoiceType": "Sale",
+    "amount": 1500.50,
+    "invoiceDate": 1642258800000
+  },
+  {
+    "customerCode": 9876543210987,
+    "invoiceType": "Service",
+    "amount": 800.75,
+    "invoiceDate": 1645369200000
+  },
+  {
+    "customerCode": 1111222233334,
+    "invoiceType": "Purchase",
+    "amount": 2000.00,
+    "invoiceDate": 1648249200000
+  },
+  {
+    "customerCode": 4444555566667,
+    "invoiceType": "Sale",
+    "amount": 1200.25,
+    "invoiceDate": 1651366000000
+  }
 ]
